@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "cli-test": "bin/index.js"
+    "ptb-react-native-cli": "bin/index.js"
   },
   "keywords": [],
   "author": "",
